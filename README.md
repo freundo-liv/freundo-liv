@@ -4,7 +4,7 @@ I am currently working on creating a website for the company I work for using ht
 my repository. I am very passionate about data analytics and emerging technology, and am in the process of searching for a job in software development to kick-start my career after graduation. 
 You can contact me at:
 -email: freundo@uni.edu
--[linkedIn:] (https://www.linkedin.com/in/olivia-freund-91a197252/)
+-[linkedIn:](https://www.linkedin.com/in/olivia-freund-91a197252/)
 
 <!--
 **freundo-liv/freundo-liv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
