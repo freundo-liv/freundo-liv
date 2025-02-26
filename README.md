@@ -1,7 +1,6 @@
 ## Hi there 👋
 My name is Olivia Freund, and I am a senior Economics, Business Analytics, and Computer Science student at the University of Northern Iowa. 
-I am currently working on creating a website for the company I work for using html, css, and javaScript! Any other projects I've worked on you can find in 
-my repository. I am very passionate about data analytics and emerging technology, and am in the process of searching for a job in software development to kick-start my career after graduation. 
+I am currently working on creating a website for the company I work for using html, css, and javaScript! My other projects are available in my repository. I am very passionate about data analytics and emerging technology, and am in the process of searching for a job in software development to kick-start my career after graduation. 
 You can contact me at freundo@uni.edu or [linkedIn](https://www.linkedin.com/in/olivia-freund-91a197252/)
 
 <!--
