@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Olivia Freund, and I am a senior Economics, Business Analytics, and Computer Science student at the University of Northern Iowa. 
 I am currently working on creating a Service Selection Website for the company I work for using html, css, and javaScript! My other projects are available in my repository. I am very passionate about computer
-science and software development, you can contact me at freundo@uni.edu or [linkedIn](https://www.linkedin.com/in/olivia-freund-91a197252/)!
+science and software development; you can contact me at freundo@uni.edu or [linkedIn](https://www.linkedin.com/in/olivia-freund-91a197252/)!
 
 <!--
 **freundo-liv/freundo-liv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
