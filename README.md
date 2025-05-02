@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Olivia Freund, and I am have my Bachelors Degrees in Economics and Business Analytics as well as a minor in Computer Science student from the University of Northern Iowa. Additionally, I will be working towrads my Masters Degree in Software Development at Boston University in Fall 2925. My personal and work related projects are available in my repository. I am very passionate about computer
+My name is Olivia Freund, and I am have my Bachelors Degrees in Economics and Business Analytics as well as a minor in Computer Science student from the University of Northern Iowa. Additionally, I will be working towrads my Masters Degree in Software Development at Boston University in Fall 2025. My personal and work related projects are available in my repository. I am very passionate about computer
 science and software development; you can contact me at freundo@uni.edu or [linkedIn](https://www.linkedin.com/in/olivia-freund-91a197252/)!
 
 <!--
